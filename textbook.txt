@@ -1,4 +1,5 @@
 Commit
+Git Status -> commit message
 add
 revert
 revoke
