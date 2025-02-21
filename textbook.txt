@@ -1,6 +1,6 @@
 Commit
 Git Status -> prints the commit message to git repository
 init -> initializes the git repository
-add
+add -> working file
 revert
 revoke
